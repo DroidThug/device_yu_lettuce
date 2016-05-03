@@ -71,6 +71,10 @@ ADDITIONAL_DEFAULT_PROPERTIES += \
 PRODUCT_PACKAGES += \
     YUDoze
 
+# Gello
+PRODUCT_PACKAGES += \
+    Gello
+
 # GPS
 PRODUCT_PACKAGES += \
     gps.msm8916
